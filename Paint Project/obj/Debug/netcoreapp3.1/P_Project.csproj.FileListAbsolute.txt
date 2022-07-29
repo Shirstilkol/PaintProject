@@ -1,0 +1,85 @@
+C:\Users\shirs\Desktop\פרוייקט צייר C#\bin\Debug\netcoreapp3.1\P_Project.exe
+C:\Users\shirs\Desktop\פרוייקט צייר C#\bin\Debug\netcoreapp3.1\P_Project.deps.json
+C:\Users\shirs\Desktop\פרוייקט צייר C#\bin\Debug\netcoreapp3.1\P_Project.runtimeconfig.json
+C:\Users\shirs\Desktop\פרוייקט צייר C#\bin\Debug\netcoreapp3.1\P_Project.runtimeconfig.dev.json
+C:\Users\shirs\Desktop\פרוייקט צייר C#\bin\Debug\netcoreapp3.1\P_Project.dll
+C:\Users\shirs\Desktop\פרוייקט צייר C#\bin\Debug\netcoreapp3.1\P_Project.pdb
+C:\Users\shirs\Desktop\פרוייקט צייר C#\obj\Debug\netcoreapp3.1\P_Project.Form1.resources
+C:\Users\shirs\Desktop\פרוייקט צייר C#\obj\Debug\netcoreapp3.1\P_Project.Properties.Resources.resources
+C:\Users\shirs\Desktop\פרוייקט צייר C#\obj\Debug\netcoreapp3.1\P_Project.csproj.GenerateResource.cache
+C:\Users\shirs\Desktop\פרוייקט צייר C#\obj\Debug\netcoreapp3.1\P_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shirs\Desktop\פרוייקט צייר C#\obj\Debug\netcoreapp3.1\P_Project.AssemblyInfoInputs.cache
+C:\Users\shirs\Desktop\פרוייקט צייר C#\obj\Debug\netcoreapp3.1\P_Project.AssemblyInfo.cs
+C:\Users\shirs\Desktop\פרוייקט צייר C#\obj\Debug\netcoreapp3.1\P_Project.csproj.CoreCompileInputs.cache
+C:\Users\shirs\Desktop\פרוייקט צייר C#\obj\Debug\netcoreapp3.1\P_Project.dll
+C:\Users\shirs\Desktop\פרוייקט צייר C#\obj\Debug\netcoreapp3.1\P_Project.pdb
+C:\Users\shirs\Desktop\פרוייקט צייר C#\obj\Debug\netcoreapp3.1\P_Project.genruntimeconfig.cache
+C:\Users\shirs\Desktop\פרוייקט צייר C#\obj\Debug\netcoreapp3.1\P_Project.csproj.AssemblyReference.cache
+C:\Users\shirs\Desktop\פרוייקט צייר\1.0\bin\Debug\netcoreapp3.1\P_Project.exe
+C:\Users\shirs\Desktop\פרוייקט צייר\1.0\bin\Debug\netcoreapp3.1\P_Project.deps.json
+C:\Users\shirs\Desktop\פרוייקט צייר\1.0\bin\Debug\netcoreapp3.1\P_Project.runtimeconfig.json
+C:\Users\shirs\Desktop\פרוייקט צייר\1.0\bin\Debug\netcoreapp3.1\P_Project.runtimeconfig.dev.json
+C:\Users\shirs\Desktop\פרוייקט צייר\1.0\bin\Debug\netcoreapp3.1\P_Project.dll
+C:\Users\shirs\Desktop\פרוייקט צייר\1.0\bin\Debug\netcoreapp3.1\P_Project.pdb
+C:\Users\shirs\Desktop\פרוייקט צייר\1.0\obj\Debug\netcoreapp3.1\P_Project.Form1.resources
+C:\Users\shirs\Desktop\פרוייקט צייר\1.0\obj\Debug\netcoreapp3.1\P_Project.Properties.Resources.resources
+C:\Users\shirs\Desktop\פרוייקט צייר\1.0\obj\Debug\netcoreapp3.1\P_Project.csproj.GenerateResource.cache
+C:\Users\shirs\Desktop\פרוייקט צייר\1.0\obj\Debug\netcoreapp3.1\P_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shirs\Desktop\פרוייקט צייר\1.0\obj\Debug\netcoreapp3.1\P_Project.AssemblyInfoInputs.cache
+C:\Users\shirs\Desktop\פרוייקט צייר\1.0\obj\Debug\netcoreapp3.1\P_Project.AssemblyInfo.cs
+C:\Users\shirs\Desktop\פרוייקט צייר\1.0\obj\Debug\netcoreapp3.1\P_Project.csproj.CoreCompileInputs.cache
+C:\Users\shirs\Desktop\פרוייקט צייר\1.0\obj\Debug\netcoreapp3.1\P_Project.dll
+C:\Users\shirs\Desktop\פרוייקט צייר\1.0\obj\Debug\netcoreapp3.1\P_Project.pdb
+C:\Users\shirs\Desktop\פרוייקט צייר\1.0\obj\Debug\netcoreapp3.1\P_Project.genruntimeconfig.cache
+C:\Users\shirs\Desktop\פרוייקט צייר\1.0\obj\Debug\netcoreapp3.1\P_Project.csproj.AssemblyReference.cache
+C:\Users\shirs\Desktop\פרוייקט צייר\‏‏1.0 - עותק\bin\Debug\netcoreapp3.1\P_Project.exe
+C:\Users\shirs\Desktop\פרוייקט צייר\‏‏1.0 - עותק\bin\Debug\netcoreapp3.1\P_Project.deps.json
+C:\Users\shirs\Desktop\פרוייקט צייר\‏‏1.0 - עותק\bin\Debug\netcoreapp3.1\P_Project.runtimeconfig.json
+C:\Users\shirs\Desktop\פרוייקט צייר\‏‏1.0 - עותק\bin\Debug\netcoreapp3.1\P_Project.runtimeconfig.dev.json
+C:\Users\shirs\Desktop\פרוייקט צייר\‏‏1.0 - עותק\bin\Debug\netcoreapp3.1\P_Project.dll
+C:\Users\shirs\Desktop\פרוייקט צייר\‏‏1.0 - עותק\bin\Debug\netcoreapp3.1\P_Project.pdb
+C:\Users\shirs\Desktop\פרוייקט צייר\‏‏1.0 - עותק\obj\Debug\netcoreapp3.1\P_Project.csproj.AssemblyReference.cache
+C:\Users\shirs\Desktop\פרוייקט צייר\‏‏1.0 - עותק\obj\Debug\netcoreapp3.1\P_Project.Form1.resources
+C:\Users\shirs\Desktop\פרוייקט צייר\‏‏1.0 - עותק\obj\Debug\netcoreapp3.1\P_Project.Properties.Resources.resources
+C:\Users\shirs\Desktop\פרוייקט צייר\‏‏1.0 - עותק\obj\Debug\netcoreapp3.1\P_Project.csproj.GenerateResource.cache
+C:\Users\shirs\Desktop\פרוייקט צייר\‏‏1.0 - עותק\obj\Debug\netcoreapp3.1\P_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shirs\Desktop\פרוייקט צייר\‏‏1.0 - עותק\obj\Debug\netcoreapp3.1\P_Project.AssemblyInfoInputs.cache
+C:\Users\shirs\Desktop\פרוייקט צייר\‏‏1.0 - עותק\obj\Debug\netcoreapp3.1\P_Project.AssemblyInfo.cs
+C:\Users\shirs\Desktop\פרוייקט צייר\‏‏1.0 - עותק\obj\Debug\netcoreapp3.1\P_Project.csproj.CoreCompileInputs.cache
+C:\Users\shirs\Desktop\פרוייקט צייר\‏‏1.0 - עותק\obj\Debug\netcoreapp3.1\P_Project.dll
+C:\Users\shirs\Desktop\פרוייקט צייר\‏‏1.0 - עותק\obj\Debug\netcoreapp3.1\P_Project.pdb
+C:\Users\shirs\Desktop\פרוייקט צייר\‏‏1.0 - עותק\obj\Debug\netcoreapp3.1\P_Project.genruntimeconfig.cache
+C:\Users\shirs\Desktop\‏‏1.0 - עותק\bin\Debug\netcoreapp3.1\P_Project.exe
+C:\Users\shirs\Desktop\‏‏1.0 - עותק\bin\Debug\netcoreapp3.1\P_Project.deps.json
+C:\Users\shirs\Desktop\‏‏1.0 - עותק\bin\Debug\netcoreapp3.1\P_Project.runtimeconfig.json
+C:\Users\shirs\Desktop\‏‏1.0 - עותק\bin\Debug\netcoreapp3.1\P_Project.runtimeconfig.dev.json
+C:\Users\shirs\Desktop\‏‏1.0 - עותק\bin\Debug\netcoreapp3.1\P_Project.dll
+C:\Users\shirs\Desktop\‏‏1.0 - עותק\bin\Debug\netcoreapp3.1\P_Project.pdb
+C:\Users\shirs\Desktop\‏‏1.0 - עותק\obj\Debug\netcoreapp3.1\P_Project.csproj.AssemblyReference.cache
+C:\Users\shirs\Desktop\‏‏1.0 - עותק\obj\Debug\netcoreapp3.1\P_Project.Form1.resources
+C:\Users\shirs\Desktop\‏‏1.0 - עותק\obj\Debug\netcoreapp3.1\P_Project.Properties.Resources.resources
+C:\Users\shirs\Desktop\‏‏1.0 - עותק\obj\Debug\netcoreapp3.1\P_Project.csproj.GenerateResource.cache
+C:\Users\shirs\Desktop\‏‏1.0 - עותק\obj\Debug\netcoreapp3.1\P_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shirs\Desktop\‏‏1.0 - עותק\obj\Debug\netcoreapp3.1\P_Project.AssemblyInfoInputs.cache
+C:\Users\shirs\Desktop\‏‏1.0 - עותק\obj\Debug\netcoreapp3.1\P_Project.AssemblyInfo.cs
+C:\Users\shirs\Desktop\‏‏1.0 - עותק\obj\Debug\netcoreapp3.1\P_Project.csproj.CoreCompileInputs.cache
+C:\Users\shirs\Desktop\‏‏1.0 - עותק\obj\Debug\netcoreapp3.1\P_Project.dll
+C:\Users\shirs\Desktop\‏‏1.0 - עותק\obj\Debug\netcoreapp3.1\P_Project.pdb
+C:\Users\shirs\Desktop\‏‏1.0 - עותק\obj\Debug\netcoreapp3.1\P_Project.genruntimeconfig.cache
+C:\Users\shirs\Desktop\שיר כולל\לימודים סמסטר ב\מונחה עצמים\פרוייקט צייר\bin\Debug\netcoreapp3.1\P_Project.exe
+C:\Users\shirs\Desktop\שיר כולל\לימודים סמסטר ב\מונחה עצמים\פרוייקט צייר\bin\Debug\netcoreapp3.1\P_Project.deps.json
+C:\Users\shirs\Desktop\שיר כולל\לימודים סמסטר ב\מונחה עצמים\פרוייקט צייר\bin\Debug\netcoreapp3.1\P_Project.runtimeconfig.json
+C:\Users\shirs\Desktop\שיר כולל\לימודים סמסטר ב\מונחה עצמים\פרוייקט צייר\bin\Debug\netcoreapp3.1\P_Project.runtimeconfig.dev.json
+C:\Users\shirs\Desktop\שיר כולל\לימודים סמסטר ב\מונחה עצמים\פרוייקט צייר\bin\Debug\netcoreapp3.1\P_Project.dll
+C:\Users\shirs\Desktop\שיר כולל\לימודים סמסטר ב\מונחה עצמים\פרוייקט צייר\bin\Debug\netcoreapp3.1\P_Project.pdb
+C:\Users\shirs\Desktop\שיר כולל\לימודים סמסטר ב\מונחה עצמים\פרוייקט צייר\obj\Debug\netcoreapp3.1\P_Project.csproj.AssemblyReference.cache
+C:\Users\shirs\Desktop\שיר כולל\לימודים סמסטר ב\מונחה עצמים\פרוייקט צייר\obj\Debug\netcoreapp3.1\P_Project.Form1.resources
+C:\Users\shirs\Desktop\שיר כולל\לימודים סמסטר ב\מונחה עצמים\פרוייקט צייר\obj\Debug\netcoreapp3.1\P_Project.Properties.Resources.resources
+C:\Users\shirs\Desktop\שיר כולל\לימודים סמסטר ב\מונחה עצמים\פרוייקט צייר\obj\Debug\netcoreapp3.1\P_Project.csproj.GenerateResource.cache
+C:\Users\shirs\Desktop\שיר כולל\לימודים סמסטר ב\מונחה עצמים\פרוייקט צייר\obj\Debug\netcoreapp3.1\P_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shirs\Desktop\שיר כולל\לימודים סמסטר ב\מונחה עצמים\פרוייקט צייר\obj\Debug\netcoreapp3.1\P_Project.AssemblyInfoInputs.cache
+C:\Users\shirs\Desktop\שיר כולל\לימודים סמסטר ב\מונחה עצמים\פרוייקט צייר\obj\Debug\netcoreapp3.1\P_Project.AssemblyInfo.cs
+C:\Users\shirs\Desktop\שיר כולל\לימודים סמסטר ב\מונחה עצמים\פרוייקט צייר\obj\Debug\netcoreapp3.1\P_Project.csproj.CoreCompileInputs.cache
+C:\Users\shirs\Desktop\שיר כולל\לימודים סמסטר ב\מונחה עצמים\פרוייקט צייר\obj\Debug\netcoreapp3.1\P_Project.dll
+C:\Users\shirs\Desktop\שיר כולל\לימודים סמסטר ב\מונחה עצמים\פרוייקט צייר\obj\Debug\netcoreapp3.1\P_Project.pdb
+C:\Users\shirs\Desktop\שיר כולל\לימודים סמסטר ב\מונחה עצמים\פרוייקט צייר\obj\Debug\netcoreapp3.1\P_Project.genruntimeconfig.cache
